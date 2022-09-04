@@ -25,4 +25,4 @@
 Here I got a chance to explore the CSS Position Property. After quite a bit of hit and trail I got a clarity on the values on what to use when. I had also explored flexbox concepts, Background properties and I also explored how to handle SVGs. Overall It was a great experience.
 
 ## Live Link
-**[Project in Action 🔥](https://dance.netlify.app/)**
+**[Project in Action 🔥](https://dance-fsjs.netlify.app/)**
