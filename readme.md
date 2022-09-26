@@ -4,7 +4,7 @@
 
 **Name**: Aarya Nanndaann Singh M N
 
-**Time**:  90mins 
+**Time**:  75mins 
 
 **Concepts Explored**: CSS Positions, Flexbox, Background Properties, Handling SVG
 
